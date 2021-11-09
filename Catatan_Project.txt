@@ -1,0 +1,4 @@
+Catatan Login
+-membuat tampilan login, menggunakan PHP, CI3, dan SB admin
+-Project untuk akhir magang
+-end
