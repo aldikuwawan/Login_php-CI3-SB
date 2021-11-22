@@ -1,5 +1,8 @@
 RENCANA KONTEN WPU
 
 - Javascript Framework
+  * ES6
+  *framework js
+- PHP Frameworks
 - Interview
 - Vlog
